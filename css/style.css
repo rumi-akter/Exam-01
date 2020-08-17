@@ -1,0 +1,32 @@
+span{
+    font-size: 30px;
+}
+.carousel-item {
+    height: 450px; }
+  
+  .carousel-img-1 {
+    background: url("../img/ambia.jpg");
+    background-size: cover; }
+  
+  .carousel-img-2 {
+    background: url("../img/Ayesha.jpeg");
+    background-size: cover; }
+  
+  .carousel-img-3 {
+    background: url("../img/Jhuleka.jpg");
+    background-size: cover; }
+    .div{
+        margin-top: 100px;
+    }
+    .ff .form-control{
+     
+        display: inline;
+        width: 30%;
+    }
+    #homeicon .fa {
+        font-size: 50px;
+     }
+.div1{
+    box-shadow: 3px 3px 17px -5px rgba(0,0,0,0.75);
+        padding: 30px;
+    }
