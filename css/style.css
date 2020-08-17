@@ -2,8 +2,7 @@ span{
     font-size: 30px;
 }
 .carousel-item {
-    height: 450px;
-padding-bottom:40px}
+    height: 600px; }
   
   .carousel-img-1 {
     background: url("../img/ambia.jpg");
